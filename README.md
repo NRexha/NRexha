@@ -16,6 +16,7 @@ Some of the tools and technologies I use in my work:
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="38" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/csharp/default.svg" height="38" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-plusplus/default.svg" height="38" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/opengl/default.svg" height="38" alt="OpenGL" />
 </p>
 
 <details>
