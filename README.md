@@ -13,6 +13,5 @@ Here, you'll find some of my latest projects, all built from scratch, **without 
 
 ## A Bit About Me
 - I have a dog 🐶
-- I love drawing ✏️
-- Coffee person ☕
-- I speak English, Italian, French, and Albanian 🌐
+- I love drawing
+- I speak English, Italian, French, and Albanian
