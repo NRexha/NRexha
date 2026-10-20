@@ -1,8 +1,8 @@
-## Hey there 🥸
+### Hey there 🥸
 
 I'm Nikolas, a technical artist based in Belgium/Luxembourg. I mainly focus on developing tools for DCC softwares. I also enjoy working on shaders and have a soft spot for optimization.
 
-Here, you'll find my tools and technical projects. For more visual work and breakdowns, check out my [ArtStation portfolio](https://www.artstation.com/nikolasrexha).
+Here, you'll find my tools and technical projects. For more visual work and breakdowns, check out my [ArtStation](https://www.artstation.com/nikolasrexha).
 
 ---
 Some of the tools and technologies I use in my work:
@@ -19,6 +19,7 @@ Some of the tools and technologies I use in my work:
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/opengl/default.svg" height="38" alt="OpenGL" />
 </p>
 
+<br>
 <details>
   <summary>A bit about me</summary>
   <p>Above all, I love working in the video game industry. It wasn't originally part of my plans, but after completing a master's degree in video games and gaining experience across different studios and projects, I've realized that this is truly what I enjoy doing.</p>
