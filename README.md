@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey there 🥸
 
-<!--
-**NRexha/NRexha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nikolas, a technical artist based in Belgium and Luxembourg.
 
-Here are some ideas to get you started:
+I mainly focus on developing tools for DCC software. I also enjoy working on shaders and have a soft spot for optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here, you'll find some of my latest projects, all built from scratch, **without AI or copy-pasting code from others**.
+
+## Tools & Tech
+- **Engines:** Unreal Engine, Unity
+- **Programming:** Python, C#, C++
+- **DCC & Texturing:** Blender, Maya, Houdini, Substance Designer
+
+## A Bit About Me
+- I have a dog 🐶
+- I love drawing ✏️
+- Coffee person ☕
+- I speak English, Italian, French, and Albanian 🌐
