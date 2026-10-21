@@ -4,21 +4,6 @@ I'm Nikolas, a technical artist based in Belgium/Luxembourg. I mainly focus on d
 
 Here, you'll find my tools and technical projects. For more visual work and breakdowns, check out my [ArtStation](https://www.artstation.com/nikolasrexha).
 
----
-Some of the tools and technologies I use in my work:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/unreal-engine/default.svg" height="38" alt="Unreal Engine" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/unity-badge/default.svg" height="38" alt="Unity" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/blender/default.svg" height="38" alt="Blender" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/maya/default.svg" height="38" alt="Maya" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/houdini/default.svg" height="38" alt="Houdini" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/substance-3d-designer/default.svg" height="38" alt="Substance Designer" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="38" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/csharp/default.svg" height="38" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c-plusplus/default.svg" height="38" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/opengl/default.svg" height="38" alt="OpenGL" />
-</p>
-
 <br>
 <details>
   <summary>A bit about me</summary>
